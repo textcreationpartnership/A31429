@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King at White-Hall, on Sunday, January 18th, 1684/5 by William Cave ...</title>
+            <author>Cave, William, 1637-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31429</idno>
+            <idno type="STC">Wing C1607</idno>
+            <idno type="STC">ESTC R36289</idno>
+            <idno type="EEBO-CITATION">15632896</idno>
+            <idno type="OCLC">ocm 15632896</idno>
+            <idno type="VID">104262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104262)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1183:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King at White-Hall, on Sunday, January 18th, 1684/5 by William Cave ...</title>
+                  <author>Cave, William, 1637-1713.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXV [1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties special command."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="new">new</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms IV, 7 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104262:1"/>
+            <p>A SERMON Preached before the KING AT WHITE-HALL, ON Sunday, <hi>January</hi> 18th. 1684/5;.</p>
+            <p>By <hi>WILLIAM CAVE,</hi> D.D. Canon of <hi>Windſor,</hi> and One of His Majeſties Chaplains in Ordinary.</p>
+            <p>Publiſhed by His Majeſties Special Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Chiſwel,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-yard, MDCLXXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:104262:2"/>
+            <pb n="1" facs="tcp:104262:2"/>
+            <epigraph>
+               <q>
+                  <bibl>Pſalm iv. vii.</bibl> Thou haſt put gladneſs in my Heart, more than in the time, that their Corn, and their Wine increaſed.</q>
+            </epigraph>
+            <p>JOy and Pleaſure are things ſo tru<g ref="char:EOLhyphen"/>ly deſirable by all Mankind, ſo agreeable to the frame, and firſt inclinations of humane nature, that Religion uſually ſuffers from nothing more in the minds of Men, than in being thought to be an enemy to them. They look upon it as a dry and ſower task, a piece of ſullen and cloyſtered Devotion, that dooms Men to a black melancholy temper, and condemns them to nothing but faſting and mourn<g ref="char:EOLhyphen"/>ing,
+<pb n="2" facs="tcp:104262:3"/>to ſadneſs and ſolitude: As if a Man could no ſooner engage in a ſtrict vertuous courſe, but he muſt preſent<g ref="char:EOLhyphen"/>ly renounce his appetites, and diveſt himſelf of all the eaſe and comfort of his Life. Such are the ordinary ap<g ref="char:EOLhyphen"/>prehenſions, which Men of looſe and prejudic'd Minds have of Religion: Than which nothing can be more ab<g ref="char:EOLhyphen"/>ſurd and falſ e, and more directly op<g ref="char:EOLhyphen"/>poſite to its Nature and Tendency, which is to ennoble the Minds of Men, to advance our preſent intereſt, and to inſtate us in perfect peace, both with God and our own Conſcien<g ref="char:EOLhyphen"/>ces.</p>
+            <p>It were no hard matter to ſhew, that things rightly conſidered, Religi<g ref="char:EOLhyphen"/>on is no Enemy to external pleaſure, it ties us up from nothing, but what our own Reaſon and Intereſt ſhould
+<pb n="3" facs="tcp:104262:3"/>reſtrain us from, to wit, what is ei<g ref="char:EOLhyphen"/>ther unmanly, or pernicious, unbe<g ref="char:EOLhyphen"/>coming the Dignity of our Natures, and deſtructive both of our preſent Wellfare, and our future Happineſs. In all harmleſs and innocent ſatisfacti<g ref="char:EOLhyphen"/>ons, that neither intrench upon the Honour of God, nor the Rights of others, nor our own peace and quiet, we have leave to pick and chooſe, to crop what delights we pleaſe; and what wiſe and reaſonable Man can deſire more? Beſides, by obliging us to uſe lawful things according to the meaſures of Temperance and Sobrie<g ref="char:EOLhyphen"/>ty, it gives the trueſt guſt and reliſh to them.</p>
+            <p>But my buſineſs at preſent lies with pleaſures of another ſort, ſuch as are Divine and Spiritual, and ſeated in the nobleſt part of Man, and which
+<pb n="4" facs="tcp:104262:4"/>are as much beyond all ſenſual de<g ref="char:EOLhyphen"/>lights, as the Soul is of a finer make and conſtitution than the Body; and theſe the Royal Pſalmiſt here tells us, he valued infinitely above all advanta<g ref="char:EOLhyphen"/>ges upon Earth, <hi>Thou haſt put glad<g ref="char:EOLhyphen"/>neſs in my Heart, more than in the time,</hi>
+               <note place="margin">
+                  <hi>See</hi> Iſai. ix. iii. Jer. xlviii. xxxiii.</note> (though a time of greateſt feſti<g ref="char:EOLhyphen"/>vity and rejoicing,) <hi>the time that their Corn and their Wine encreaſed.</hi>
+            </p>
+            <p>In proſecution of which words, I ſhall briefly enquire into three things.</p>
+            <p n="1">1. The nature of this inward joy and pleaſure. 2. What influence Re<g ref="char:EOLhyphen"/>ligion has upon the Joy and Pleaſure of a Man's mind. 3. I ſhall conſi<g ref="char:EOLhyphen"/>der the excellency of the pleaſures of Religion, above all the Delights and Pleaſures of this World.</p>
+            <pb n="5" facs="tcp:104262:4"/>
+            <p> 
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> We ſhall begin with the Nature of this inward Joy and Pleaſure, by which I do not mean, a natural gaiety and chearfulneſs of Humour, or a few light and tranſient fits of Mirth, nor yet any ſtrong and confident pre<g ref="char:EOLhyphen"/>ſumptions of God's Love and Favour, or any rapturous tranſports, and ſen<g ref="char:EOLhyphen"/>ſible raviſhments of Joy, which how<g ref="char:EOLhyphen"/>ever in extraordinary caſes, they may be granted to ſome, are yet very often in thoſe that pretend moſt to them, little elſe, but the quick and vigo<g ref="char:EOLhyphen"/>rous motions of the Animal Spirits, impregnated by the force and power of a warm active fancy. That which I here intend, is a ſolid and rational ſatisfaction of mind, in the goodneſs and ſoundneſs of a Man's eſtate to<g ref="char:EOLhyphen"/>wards God, and flows uſually from theſe two things.</p>
+            <pb n="6" facs="tcp:104262:5"/>
+            <p n="1">1. From a ſincere and regular diſ<g ref="char:EOLhyphen"/>charge of our duty, which brings its own comfort and tranquility along with it: The Harmony of our Souls depends upon an even and orderly courſe of Piety, every violation of our obedience makes a breach upon our peace, and ſets us back in the fa<g ref="char:EOLhyphen"/>vour of Heaven. All pleaſure is founded in an agreeableneſs between the Faculty and the Object: Now there is an eſſential and eternal congrui<g ref="char:EOLhyphen"/>ty between a reaſonable Soul and mo<g ref="char:EOLhyphen"/>ral goodneſs, which the more it is cheriſhed, the nearer we return to our Natural and Original State. All acti<g ref="char:EOLhyphen"/>ons of Nature are very pleaſant and delightful, and certainly we never act more agreeably to the right frame and conſtitution of our Souls, than when we purſue the deſigns of Ver<g ref="char:EOLhyphen"/>tue
+<pb n="7" facs="tcp:104262:5"/>and Religion, when we are care<g ref="char:EOLhyphen"/>ful to Love, Worſhip, Honour, and Obey our Maker; to keep our Fa<g ref="char:EOLhyphen"/>culties in due Order and Decorum, to be juſt, kind, helpful, and benefi<g ref="char:EOLhyphen"/>cial to Men: Hence ſprings that con<g ref="char:EOLhyphen"/>tentment and ſatisfaction, that is lodg<g ref="char:EOLhyphen"/>ed in the minds of good Men, it be<g ref="char:EOLhyphen"/>ing as poſſible for the Sun-beams to be without Light and Heat, as Ver<g ref="char:EOLhyphen"/>tue without an inward complacency and delight.</p>
+            <p n="2">2. This pleaſure lies in a cheerful reflexion upon a Man's innocency, and the integrity of his actions, when a Man dares look back upon what he has done, and knows that he has the teſtimony and approbation of Hea<g ref="char:EOLhyphen"/>ven on his ſide, bearing witneſs to the vote and ſuffrage of his own conſci<g ref="char:EOLhyphen"/>ence. And indeed what can poſſibly
+<pb n="8" facs="tcp:104262:6"/>adminiſter greater ſecurity and ſatisfa<g ref="char:EOLhyphen"/>ction to a good Man, than the aſſu<g ref="char:EOLhyphen"/>rance that he has ſincerely done his duty, and that he is accepted with God. <hi>If our heart condemns us not,</hi> ſays the Apoſtle, that is, either of Hypocriſie or neglect,<note place="margin">1 Joh. iii. xxi.</note> 
+               <hi>then have we confidence towards God.</hi> Upon ſuch a review, a calmneſs and Joy over<g ref="char:EOLhyphen"/>ſpreads the mind, and a Man is re<g ref="char:EOLhyphen"/>freſhed with the remembrance of his paſt Life. Which made the wiſer Hea<g ref="char:EOLhyphen"/>thens ſay, that Vertue was a reward to its ſelf, and that a good Man al<g ref="char:EOLhyphen"/>ways carries a Heaven in his own Boſome: <hi>Nulla re tam laetari ſoleo,</hi> (ſays <hi>Cicero</hi>) <hi>quàm officiorum meorum conſcientia;</hi> I am refreſhed and plea<g ref="char:EOLhyphen"/>ſed with nothing more, than the Con<g ref="char:EOLhyphen"/>ſcience of having done my duty; or it might have been rendred in thoſe
+<pb n="9" facs="tcp:104262:6"/>words of St. <hi>Paul, This is our rejoy<g ref="char:EOLhyphen"/>cing,</hi>
+               <note place="margin">2 Cor. 1. xii.</note> 
+               <hi>the teſtimony of our Conſcience, that in ſimplicity and godly ſincerity, we have had our converſation in the World.</hi> And this will be farther e<g ref="char:EOLhyphen"/>vident, if we conſider,</p>
+            <p> 
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> What influence Religion has up<g ref="char:EOLhyphen"/>on the Joy and Pleaſure of a Man's mind, which will clearly appear from theſe following inſtances.</p>
+            <p n="1">1. Religion reſtores a Man to the grace and favour of God, and aſ<g ref="char:EOLhyphen"/>ſures him that Sins are pardoned, and his peace made with Heaven, that there is a league of friendſhip between God and him, that his tranſ<g ref="char:EOLhyphen"/>greſſions are done away, and that God will remember his Sins no more. Than which, what ſtronger Spring of Joy and comfort can there be to a
+<pb n="10" facs="tcp:104262:7"/>Man's mind. If the reſpects and kind<g ref="char:EOLhyphen"/>neſs of a great Man, be ſo highly valuable, and the ſmiles of a Prince ſo refreſhing, that as <hi>Solomon</hi> ſpeaks, <hi>In the light of the King's Countenance there is Life,</hi>
+               <note place="margin">Prov. 16.15</note> 
+               <hi>and his favour is as the Cloud of the latter Rain.</hi> What pleaſure muſt it be for a Man to think, that he has the friendſhip and favour of the great King and Gover<g ref="char:EOLhyphen"/>nour of the World, <hi>In whoſe favour is Life,</hi>
+               <note place="margin">Pſalm 30.5.63.3.</note> 
+               <hi>yea, whoſe loving kindneſs is better than Life it ſelf.</hi> So long as God is an Enemy, all within us muſt needs be either full of fears, or in a ſtate of War: For Conſcience having relation to God, as its immediate Lord and Superiour, cannot be kind and friendly to thoſe that are Trai<g ref="char:EOLhyphen"/>tors to Heaven.</p>
+            <pb n="11" facs="tcp:104262:7"/>
+            <p>The wiſe Creator of all things, has ſo framed and contrived our Natures, that either joy or torment ſhall be our portion according as the cauſe goes within our own Breaſts. By Sin we diſpleaſe the moſt delicate ſenſe of our minds, and by offering violence to the Laws of our duty, we preſently fall out of our own fa<g ref="char:EOLhyphen"/>vour, as well as God's; and are thereby expoſed to the ſharp laſhes of an injured Conſcience. Guilt is naturally troubleſome and uneaſie, it frets and gauls the mind, and fills the Soul with jealous and dreadful thoughts of God, which in deſpite of all the Arts and Shifts, that Men can uſe, will ſtill purſue and haunt them, and prey upon them by inviſible fears. When we have done all that we can to deceive our ſelves, we cannot al<g ref="char:EOLhyphen"/>ter
+<pb n="12" facs="tcp:104262:8"/>the nature of things, Vice will be Vice, and Guilt will be apt to diſturb and awaken Conſcience, and bad Men will be afraid to die, and their Souls will tremble at the appre<g ref="char:EOLhyphen"/>henſions of a day of doom. <hi>Epicu<g ref="char:EOLhyphen"/>rus</hi> thought, he had ſufficiently ſecu<g ref="char:EOLhyphen"/>red the enjoyment of his pleaſures, and fortified himſelf againſt the aſſaults of inquietudes and fears, when he had diſcharged the Juſtice and Providence of God, and had done what was poſ<g ref="char:EOLhyphen"/>ſible, to baniſh the force of Religi<g ref="char:EOLhyphen"/>on, and the belief of a future ſtate out of the minds of Men.</p>
+            <p>But let us ſee how he himſelf ſuc<g ref="char:EOLhyphen"/>ceeded in this affair. The Philoſo<g ref="char:EOLhyphen"/>pher in <hi>Tully,</hi> gives us this account of him;<note n="*" place="margin">Nec quenquam vidi, qui magis ea quae timenda eſſe negaret, ti<g ref="char:EOLhyphen"/>meret, mortem dico &amp; Deos. Cotta ap. Cic. de Nat. Deor. Lib. <hi>1.</hi>
+               </note> 
+               <hi>I never ſaw any one,</hi> ſays he, <hi>who was more afraid of thoſe very things, which he himſelf affirmed were
+<pb n="13" facs="tcp:104262:8"/>not to be feared, to with, Death, and the vengeance of the Gods.</hi> And ano<g ref="char:EOLhyphen"/>ther of their Writers tells us of him,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Himer. declam. in Epicur. ap. Phot. Cod. <hi>234.</hi> p. <hi>1084.</hi>
+               </note> that when Cited to appear before his Judges, he came with the moſt de<g ref="char:EOLhyphen"/>jected look, and confuted his fine Notions of mirth and pleaſure, by his own ſad melancholy Countenance. Nothing can lay a firm Foundation of true eaſe and quiet to our minds, but the ſatisfaction, that God is our Friend, and that all ſtands clear be<g ref="char:EOLhyphen"/>tween him and us, and nothing can entitle us to that, but a ſolid Piety, an unfeigned Repentance for what is paſt, and a ſincere Reformation for the future courſe and practice of our Life.</p>
+            <p n="2">2. A courſe of Vertue and Reli<g ref="char:EOLhyphen"/>gion ſubdues our inordinate appetites and vicious inclinations, which are
+<pb n="14" facs="tcp:104262:9"/>the great Fountains of inquietude and trouble. Look upon a Man, that has broken looſe from the reſtraints of Sobriety and Vertue, and aban<g ref="char:EOLhyphen"/>doned himſelf to a Life of Debauche<g ref="char:EOLhyphen"/>ry and Senſuality, and you will find his Soul like a Foreſt of wild Beaſts, over-run with mutiny and diſorder; his deſires are infinite, his paſſions furious and ungovernable, his incli<g ref="char:EOLhyphen"/>nations different, apt to lye croſs to, and to fall foul upon one another. <hi>The wicked,</hi>
+               <note place="margin">Iſai. 51.20.</note> ſays the Prophet, <hi>are like the troubled Sea when it cannot reſt, whoſe waters caſt up mire and dirt.</hi> In vain is it to expect calmneſs and ſerenity, where the Waves are con<g ref="char:EOLhyphen"/>tinually toſſed with violent Storms; and as vain to look for joy and tranqui<g ref="char:EOLhyphen"/>lity in that Man's ſoul, that is diſtract<g ref="char:EOLhyphen"/>ed with the rage of unruly and ex<g ref="char:EOLhyphen"/>travagant
+<pb n="15" facs="tcp:104262:9"/>affections, which at once bid defiance to the Laws of Heaven, and to the reaſons of his own mind. Nay, could we ſuppoſe, that God ſhould pardon a bad Man, and ſtill leave him under the Power and Do<g ref="char:EOLhyphen"/>minion of his Luſts, this would not calm and pacifie his Conſcience, eve<g ref="char:EOLhyphen"/>ry irregular appetite would be a <hi>Ne<g ref="char:EOLhyphen"/>meſis,</hi> a Fury to purſue him, and would diſturb him in his moſt ſoft and retired hours. Nothing but Re<g ref="char:EOLhyphen"/>ligion, and the mighty aſſiſtance of Divine Grace, which is never want<g ref="char:EOLhyphen"/>ing to Men's ſincere endeavours, is able to allay theſe ſtorms, to con<g ref="char:EOLhyphen"/>troul our paſſions, to curb and mor<g ref="char:EOLhyphen"/>tify our corrupt inclinations. For Religion circulates through all our Powers, diſpoſes every faculty to act in its due place and order, and de<g ref="char:EOLhyphen"/>termines
+<pb n="16" facs="tcp:104262:10"/>every affection to its pecu<g ref="char:EOLhyphen"/>liar Object, which muſt needs pro<g ref="char:EOLhyphen"/>duce an ineſtimable contentment and delight, as then the Harmony will be pleaſant, when every ſtring gives in its proper ſound. Beſides the ve<g ref="char:EOLhyphen"/>ry maſtering of our vices, yields mat<g ref="char:EOLhyphen"/>ter of Joy and Triumph; for though to contend with vicious habits, and radicated inclinations, be a difficult and ingrateful task, yet this difficul<g ref="char:EOLhyphen"/>ty is chiefly in our firſt entrance up<g ref="char:EOLhyphen"/>on a religious courſe; the Ice once broken, every temptation we repel, every Victory we obtain, will add a new pleaſure and ſatisfaction to the mind, as no work more delightful to a Conquerour, than to purſue a routed Enemy, that flies before him.</p>
+            <pb n="17" facs="tcp:104262:10"/>
+            <p n="3">3. A Pious and Religious Life, ſecures to a Man the peculiar care and protection of the Divine Pro<g ref="char:EOLhyphen"/>vidence, than which there cannot be a ſtronger ſupport, and comfort to the mind of a wiſe and good Man. For what greater pleaſure can there be, than to be aſſured, that whatever his circumſtances may be in the World, yet all his concerns are lodged in the hands of unerring wiſ<g ref="char:EOLhyphen"/>dom, and infinite power, which can and will ſucceed and proſper them, to a happy event and iſſue; to know that in all ſtreights and difficulties he is under the immediate guard and ſuperintendency of Heaven, and that God ſtands by him, and takes care of him: That ſame omnipotent Arm, that brought the World out of no<g ref="char:EOLhyphen"/>thing, and keeps it from periſhing by
+<pb n="18" facs="tcp:104262:11"/>the ſame power by which he made it, is much more able to relieve and reſcue him in the greateſt dangers. <hi>The Lord is my light and my ſalvati<g ref="char:EOLhyphen"/>on,</hi>
+               <note place="margin">Pſalm. 27.1</note> ſays <hi>David, Whom ſhall I fear? the Lord is the ſtrength of my Life, of whom ſhall I be afraid? Though I walk through the Valley of the ſha<g ref="char:EOLhyphen"/>dow of death,</hi>
+               <note place="margin">23.4.</note> 
+               <hi>yet will I fear no evil, for thou art with me.</hi> A Pious Man, that is heartily devoted to God's ſer<g ref="char:EOLhyphen"/>vice, can chearfully truſt God for his daily Bread, and is not anxiouſ<g ref="char:EOLhyphen"/>ly concerned, if ſupplies come not in, juſt when he expects or wants them; he believes that that Almighty goodneſs, which provides for the meaneſt Creatures, and daily ſpreads a Table for the whole Creation, will much leſs neglect his own Children. Thus the Prophet argued when at his
+<pb n="19" facs="tcp:104262:11"/>loweſt ebb; <hi>Altho' the Figtree ſhall not bloſſom, neither Fruit be in the Vines,</hi>
+               <note place="margin">Habac. 3. xvii. xviii.</note> 
+               <hi>though the labour of the Olive ſhall fail, and the Fields yield no Meat, the Flocks be cut off from the Fold, and there be no Herd in the Stalls,</hi> that is, though there ſhould be an u<g ref="char:EOLhyphen"/>niverſal failing of all the ordinary ſup<g ref="char:EOLhyphen"/>ports of humane life, <hi>Yet will I re<g ref="char:EOLhyphen"/>joyce in the Lord, I will joy in the God of my Salvation.</hi> It is well for the World in general, that God Rules it, and takes care of it, <hi>The Lord reigns, let the Earth rejoyce.</hi>
+               <note place="margin">Pſalm 97.1.</note> 
+               <hi>Let the multitude of the Iſles be glad thereof.</hi> Iſlands, that are cut off from the help and ſecurity of the Continent, and naturally ſeem moſt expoſed to danger, yet even theſe are ſafe under the Divine care and Government. But above all, good
+<pb n="20" facs="tcp:104262:12"/>Men have reaſon to rejoyce, becauſe God being their Father, whatever he does for others, he will be ſure to order the adminiſtrations of his pro<g ref="char:EOLhyphen"/>vidence for their comfort and happi<g ref="char:EOLhyphen"/>neſs.</p>
+            <p n="4">4. Religion refreſhes the mind of a good Man with a joyful aſſurance of the glory and bleſſedneſs of the o<g ref="char:EOLhyphen"/>ther World. He that <hi>goes on by a patient continuance in well doing,</hi> aſ<g ref="char:EOLhyphen"/>ſures himſelf from the Juſtice and un<g ref="char:EOLhyphen"/>changeableneſs of the Divine Promiſe, that however he fares at preſent, it ſhall be well with him at laſt, and he ſhall be happy for ever; That <hi>there is a reſt that remains,</hi> a ſtate of incomparable Glory prepared for them that love and obey God: And the expectations of This daily ſpring in upon his mind with freſh pleaſures
+<pb n="21" facs="tcp:104262:12"/>and ſatisfactions, and he cannot but rejoyce to think, that he ſhall ſhort<g ref="char:EOLhyphen"/>ly arrive at that place, where he ſhall be as happy, as all the glory and bleſſedneſs of that ſtate can make him: And indeed were it not for the pre-apprehenſions of theſe future rewards, Vertue however lovely and amiable in it ſelf, would be thought but cold comfort, and be able to bring over but few Proſelites and Followers;<note place="margin">1 Cor. xv. xix.</note> 
+               <hi>If in this life only we had hope in Chriſt, we were of all Men moſt miſerable.</hi> But there are <hi>Joys unſpeakable, and full of glory,</hi> ready to Crown the Piety of a good Man in the other World, and which will infinitely compenſate all the difficul<g ref="char:EOLhyphen"/>ties of his preſent ſervices and ſuffe<g ref="char:EOLhyphen"/>rings, which muſt needs make him lift up his Head with Joy and Tri<g ref="char:EOLhyphen"/>umph,
+<pb n="22" facs="tcp:104262:13"/>and take pleaſure even under infirmities and diſtreſſes. <hi>For this cauſe,</hi>
+               <note place="margin">2 Cor. iv. 16, 17, 18.</note> ſays St. <hi>Paul, We faint not, but though our outward Man periſh, yet the inward Man is renewed day by day; for our light affliction which is but for a moment, worketh for us a far more exceeding and eternal weight of glory: While we look not at the things which are ſeen, but at the things which are not ſeen: For the things which are ſeen are temporal, but the things which are not ſeen are eternal.</hi> And ſo I proceed to the laſt things I propounded to conſi<g ref="char:EOLhyphen"/>der, <hi>viz.</hi>
+            </p>
+            <p> 
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> The Excellency of the pleaſures of Religion, above all the delights and pleaſures of this World, they <hi>Put more gladneſs into the Heart, than
+<pb n="23" facs="tcp:104262:13"/>when the Corn and the Wine increa<g ref="char:EOLhyphen"/>ſes.</hi> And the great advantages of the one above the other, will appear from theſe following particulars.</p>
+            <p n="1">1. The delights of this World are groſs and corporeal, and affect only the external ſenſes, and are the pleaſures of the Brute, rather than of the Man. For any one to drown himſelf in ſenſual enjoyments, is in effect to degrade himſelf from the ho<g ref="char:EOLhyphen"/>nour of humane nature, and to place his happineſs in thoſe things, where<g ref="char:EOLhyphen"/>in the Beaſts have a better ſhare than we. The Joys and ſweetneſſes of Re<g ref="char:EOLhyphen"/>ligion reſide in the moſt noble and excellent part of Man, and that which alone is capable of true real pleaſure, they come neareſt to the happineſs of Heaven, and the Joys of God himſelf. To be in Heaven is
+<pb n="24" facs="tcp:104262:14"/>not to be rich or honourable, or to ſwim in plenty, or to feaſt our ſenſes with groſs delights, no, the Joys of that ſtate are chaſt and rational, ſuch as ariſe from the conſcience of our innocency, and the ſenſe of our hap<g ref="char:EOLhyphen"/>pineſs, our being for ever in the pre<g ref="char:EOLhyphen"/>ſence of God, and the company of pure and holy Souls. What is it that makes Heaven a happy place to good Men, but that they are un<g ref="char:EOLhyphen"/>weariedly and uninterruptedly im<g ref="char:EOLhyphen"/>ployed in the Miniſteries of praiſe and admiration, always acting in ſubſer<g ref="char:EOLhyphen"/>viency to the Will and Pleaſure of their Maker? wherein conſiſts the bleſſedneſs of God himſelf, but only in a happy contemplation of his own infinite Being, and a reflexion upon the exerciſe of his incomparable attri<g ref="char:EOLhyphen"/>butes and perfections? Religion, as
+<pb n="25" facs="tcp:104262:14"/>it is the imitation of the Divine per<g ref="char:EOLhyphen"/>fections, ſo the comforts of it are a kind of participation of God's own delights, they put us as it were into Heaven before hand, and ſhew us what our entertainment muſt be, when we come there.</p>
+            <p n="2">2. The Pleaſures of Religion are more ſolid and ſatisfying, than any thing this World can afford: They fill our appetites, and fix our de<g ref="char:EOLhyphen"/>ſires, and ſettle the Soul upon the right baſis and temper; as in nature, every thing is at eaſe and reſt, when lodged in its proper center. All earth<g ref="char:EOLhyphen"/>ly delights are ſtrangely unſuitable to the nature of our Spirits, our deſires fly beyond the regions of ſence, and graſp at ſomething more than this lower World can preſent them with: No vicious Man could ever ſay he
+<pb n="26" facs="tcp:104262:15"/>had enough,<note place="margin">Habac. 2.5.</note> He <hi>enlarges his deſires as Hell,</hi> as the Prophets Phraſe is, and his cravings are as inſatiable as death it ſelf. He is rack'd between his own inclinations, and rowls from one enjoyment to another, till the very object of his pleaſure becomes the inſtrument of his torment. For not finding ſatisfaction in this thing, he turns to that, and ſo runs the round, and after all is never the near<g ref="char:EOLhyphen"/>er than he was before; he has either too little or too much, and like <hi>Am<g ref="char:EOLhyphen"/>non,</hi> is either ſick for what he has not, or ſurfeited of what he has. If reſi<g ref="char:EOLhyphen"/>ding on any one particular ſcene of pleaſure, though it be that which he has moſt a mind to, he quickly grows weary, and it becomes to him a bon<g ref="char:EOLhyphen"/>dage and a burden. It is Religion only that can bound and terminate
+<pb n="27" facs="tcp:104262:15"/>our deſires, and fix the Soul in a hearty Union to the will of God, and in the enjoyment of him who is the chiefeſt good. Nor do the repeated acts of it ever cloy or weary us, they quiet our appetites, but do not nau<g ref="char:EOLhyphen"/>ſeate them, becauſe freſh delights are continually ſpringing up, as they needs muſt do, where the Objects we feed upon are infinite and inex<g ref="char:EOLhyphen"/>hauſted. For,</p>
+            <p n="3">3. Religious Pleaſures are more large and comprehenſive, they take in a vaſter compaſs, the delights both of this and of the other World. How exquiſitely pleaſant muſt it needs be to a wiſe Man, to let looſe his meditations through the ſeveral circles of Divine contemplation, to entertain himſelf with the thoughts of God, the beſt and moſt happy Being;
+<pb n="28" facs="tcp:104262:16"/>to conſider the glories of his nature, the Wiſdom and Harmony of his Creation, the wonders of his Provi<g ref="char:EOLhyphen"/>dence, the treaſures of his mercy, and the unfathomable deſigns of his love and goodneſs, in the great work of our redemption: Things which cannot but excite his wonder, and ra<g ref="char:EOLhyphen"/>viſh his affections. And if only in<g ref="char:EOLhyphen"/>tellectual pleaſures, which are but the exerciſe of one faculty, have ſo wide a Sphear to move in, what is there, when every faculty is employed upon its proper object? In the beſt en<g ref="char:EOLhyphen"/>joyments upon Earth, we are ſoon at the end of the Line, the ſenſes are limited to this and t'other ob<g ref="char:EOLhyphen"/>ject, and if that fails, their comforts are preſently at an end, but ſpiri<g ref="char:EOLhyphen"/>tual delights are unconfined, and ex<g ref="char:EOLhyphen"/>tend themſelves equal to the deſires,
+<pb n="29" facs="tcp:104262:16"/>the needs, and capacities of the Soul.</p>
+            <p n="4">4. The Pleaſures of Religion, have infinitely the advantage of all others in point of duration and con<g ref="char:EOLhyphen"/>tinuance, they abide with us, when all other comforts fly, or are rifled away from us. The delights of ſenſe, as all other things in this World, are in their own nature fading and tranſient, and periſh with the uſing, like <hi>the crackling of Thorns under a Pot,</hi> that make a flaſh and a blaze for a while, and then ſuddenly die away. Beſides, they are expoſed to a thouſand caſualties, that unavoid<g ref="char:EOLhyphen"/>ably break in upon us. <hi>Belſhazzer</hi> was Arreſted in the midſt of all his Jollity, and the Triumphs of his Court, when an unexpected Meſſage from Heaven, meeting with the Vote
+<pb n="30" facs="tcp:104262:17"/>of a guilty Conſcience, turn'd him into horror and trembling, and then all his light Airy Mirth vaniſhed and diſappeared. It is the peculiar ex<g ref="char:EOLhyphen"/>cellency of Religion, that the com<g ref="char:EOLhyphen"/>forts of it are out of the reach of all foreign and external accidents, and cannot be raviſhed from us. He that is the happieſt Man in this World, is not able to ſecure his own felicity, becauſe not able to de<g ref="char:EOLhyphen"/>fend it, from the rapine and malice of bad Men; who can be too hard for him, and ſtrip him of his Eſtate or Reputation, when they have a mind to it. But what can break the eaſe of a good Man? what violence can force the guards of Conſcience? or diſturb that compoſure that is with<g ref="char:EOLhyphen"/>in our own Breaſts. Death it ſelf does not take it away, but improve
+<pb n="31" facs="tcp:104262:17"/>and perfect it: And when the Joy of a wicked Man ſhall <hi>Periſh like the Spiders Web, and his hope be as the giving up of the Ghoſt:</hi> Then will the Pleaſures of a good Conſcience ac<g ref="char:EOLhyphen"/>company us into the other World; <hi>Mark the Perfect,</hi>
+               <note place="margin">Pſal. 37.37.</note> 
+               <hi>and behold the <g ref="char:V">Ʋ</g>p<g ref="char:EOLhyphen"/>right, for the end of that Man is Peace.</hi>
+            </p>
+            <p>Thus we ſee, That <hi>the ways of wiſdom, are ways of pleaſantneſs,</hi> and how much the delights of a vertu<g ref="char:EOLhyphen"/>ous and a good Man tranſcend all other whatſoever. A conſideration that ought mightily to endear Reli<g ref="char:EOLhyphen"/>gion to us; we naturally thirſt after Pleaſure, and 'tis no where ſubſtan<g ref="char:EOLhyphen"/>tially to be found, but in the courſe of a Holy Life. All ſin is reſtleſs and tormenting, and ſooner or later will make us troubleſome and uneaſie
+<pb n="32" facs="tcp:104262:18"/>to our ſelves: 'Tis ſome time before a bad Man can wholly debauch his Reaſon and his Conſcience, and 'till he can, that will create him ſome trouble and difficulty, it be<g ref="char:EOLhyphen"/>ing impoſſible a Man ſhould ſin with any tolerable eaſe or comfort, while Reaſon does remonſtrate, and Conſci<g ref="char:EOLhyphen"/>ence make head within. And when he has in a manner conquer'd all remorſe, and ſtupified the ſenſe of good and e<g ref="char:EOLhyphen"/>vil, he has no ſecurity that it will con<g ref="char:EOLhyphen"/>tinue, but that upon every little affli<g ref="char:EOLhyphen"/>ction or petty accident conſcience will awaken into rage and horror, and that will be a torment infinitely beyond what the moſt witty cruelty of Man could ever find out, it being in the Phraſe of the excellent <hi>Hierocles</hi> to anticipate <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the torments which the damned ſuffer in the other World;
+<pb n="33" facs="tcp:104262:18"/>as on the other hand to perſevere in courſe of a ſerious and regular pie<g ref="char:EOLhyphen"/>ty, is to enter upon the Joys of Hea<g ref="char:EOLhyphen"/>ven, even in this Life; Joys which no misfortune is able to impair: 'Tis not all the World can make me miſerable, if I be careful to preſerve my innocency, and integrity. Tho' I cannot ſay (ſays <hi>Plutarch</hi>) that while I live,<note place="margin">Lib. de A<g ref="char:EOLhyphen"/>nim. ap. Stob. Serm. 22.</note> this or that calamity ſhall not befall me, yet this I can ſay, that while I live, I will never do this or that, I will not lie, or deceive, or craftily over-reach and betray my neighbour: For theſe and ſuch like, are things that are in every Man's pow<g ref="char:EOLhyphen"/>er, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and do greatly conduce to the peace and tranquillity of our Minds.</p>
+            <p>The ſum is this,<note place="margin">Eſai. 32.17.</note> 
+               <hi>the work of righte<g ref="char:EOLhyphen"/>ouſneſs is peace, and the effect of righte<g ref="char:EOLhyphen"/>ouſneſs is quietneſs and aſſurance for e<g ref="char:EOLhyphen"/>ver;</hi>
+               <pb n="34" facs="tcp:104262:19"/>if either we would live with com<g ref="char:EOLhyphen"/>fort, or die with ſafety, this is the way, this is that that will ſweeten the preſent difficulties of our journey, and in the end bring us to the Viſion of God, <hi>in whoſe preſence there is fulneſs of joy,</hi>
+               <note place="margin">Pſal. 16.11.</note> 
+               <hi>and at whoſe right hand there are pleaſures for evermore.</hi> To which God of his in<g ref="char:EOLhyphen"/>finite Mercy, bring us all for Chriſt Jeſus ſake, To whom with the Father and the Holy Ghoſt, be all honour and glory, World without end. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104262:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
